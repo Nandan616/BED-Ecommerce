@@ -1,4 +1,4 @@
-# EcomFlow - Full Stack E-Commerce Application (Phase 1)
+# BED-Ecommerce - Full Stack E-Commerce Application (Phase 1)
 
 A complete full-stack e-commerce application built with React, Node.js, Express, and MongoDB. Features product browsing, filtering, pagination, shopping cart, and product details.
 
@@ -266,4 +266,3 @@ Built with ❤️ for learning full-stack development.
 ---
 
 **Happy Coding! 🚀**
-
